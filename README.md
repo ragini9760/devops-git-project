@@ -29,9 +29,11 @@ This project demonstrates Git best practices in a DevOps workflow. It includes v
 git clone https://github.com/ragini9760/devops-git-project.git
 
 # Create a feature branch
-git checkout -b feature/your-feature
+git checkout -b feature/readme
 
 # Push your changes
-git push origin feature/your-feature
+git push origin feature/readme
 
 # Open a Pull Request on GitHub
+
+merge the branch
